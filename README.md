@@ -1,6 +1,6 @@
 <h1 style="color: #E10D89;">Hi there 👋</h1>
-- 🌱 I’m currently learning CyberSec 
-----> www.linkedin.com/in/gabrielamoya07
+<p> - 🌱 I’m currently learning CyberSec </p>
+<p> ----> www.linkedin.com/in/gabrielamoya07 </p>
 
 <!--
 **gabyBot/gabyBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
