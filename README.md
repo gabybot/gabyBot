@@ -1,4 +1,4 @@
-<h1 color=#E10D89> ## Hi there 👋</h1>
+<h1 tyle="color: #E10D89;"> ## Hi there 👋</h1>
 
 <!--
 **gabyBot/gabyBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
