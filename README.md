@@ -5,11 +5,11 @@
 ¡Hola! Soy Gaby 👩🏼‍💻, desarrolladora amante de la tecnología y la ciberseguridad. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras y seguras.
 
 ## Habilidades
-🌸 **Lenguajes de Programación:** JavaScript, Python, SQL, Ruby in progress
-🌸**Frameworks:** React, NextqJs, NestJS, Node.js 
-🌸**Arquitectura de software**
-🌸**Arquitectura Cloud** - AWS
-🌸 **Ingenieria en Ciberseguridad:** 
+-🌸 **Lenguajes de Programación:** JavaScript, Python, SQL, Ruby in progress
+-🌸**Frameworks:** React, NextqJs, NestJS, Node.js 
+-🌸**Arquitectura de software**
+-🌸**Arquitectura Cloud** - AWS
+-🌸 **Ingenieria en Ciberseguridad:** 
 <!--
 **gabyBot/gabyBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
