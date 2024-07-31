@@ -1,15 +1,15 @@
-<h1 style="color: #E10D89;">Hi there 👋</h1>
+<h1 style="color: #E10D89;" >👩🏼‍💻 Hi there 👋💜</h1>
 <p style="color: lightpink">💻 Dev - CyberSec 🔐</p>
 
 ## Sobre Mí
-¡Hola! Soy Gaby,desarrolladora amante por la tecnología y la ciberseguridad. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras y seguras.
+¡Hola! Soy Gaby, desarrolladora amante de la tecnología y la ciberseguridad. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras y seguras.
 
 ## Habilidades
-- **Lenguajes de Programación:** JavaScript, Python, SQL, Ruby in progress
-- **Frameworks:** React, NextqJs, NestJS, Node.js 
-- **Arquitectura de software**
-- **Arquitectura Cloud** - AWS
-- **Ingenieria en Ciberseguridad:** 
+🌸 **Lenguajes de Programación:** JavaScript, Python, SQL, Ruby in progress
+🌸**Frameworks:** React, NextqJs, NestJS, Node.js 
+🌸**Arquitectura de software**
+🌸**Arquitectura Cloud** - AWS
+🌸 **Ingenieria en Ciberseguridad:** 
 <!--
 **gabyBot/gabyBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
