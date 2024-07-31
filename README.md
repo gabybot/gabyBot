@@ -1,8 +1,8 @@
-<h1 style="color: #E10D89;" >👩🏼‍💻 Hi there 👋💜</h1>
+<h2 style="color: #E10D89;" > Hi there 👋💜</h2>
 <p style="color: lightpink">💻 Dev - CyberSec 🔐</p>
 
 ## Sobre Mí
-¡Hola! Soy Gaby, desarrolladora amante de la tecnología y la ciberseguridad. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras y seguras.
+¡Hola! Soy Gaby 👩🏼‍💻, desarrolladora amante de la tecnología y la ciberseguridad. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras y seguras.
 
 ## Habilidades
 🌸 **Lenguajes de Programación:** JavaScript, Python, SQL, Ruby in progress
