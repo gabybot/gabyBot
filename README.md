@@ -1,5 +1,5 @@
 <h2 style="color: #E10D89;" > Hi there 👋💜</h2>
-<p style="color: lightpink">💻 Dev - CyberSec 🔐</p>
+<p style="color: lightpink">💻 Dev - CyberSec 🔐 - CLOUD </p>
 
 ## Sobre Mí
 ¡Hola! Soy Gaby 👩🏼‍💻, desarrolladora amante de la tecnología y la ciberseguridad. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras y seguras.
